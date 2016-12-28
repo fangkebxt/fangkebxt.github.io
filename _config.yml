@@ -36,7 +36,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Fang ke 2016-17 all right reserved.
+  name: 方可
   avatar: bio-photo.jpg
   email: you@email.com
   disqus-shortname:
